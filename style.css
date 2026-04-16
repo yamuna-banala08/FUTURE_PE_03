@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f5f5;
+}
+
+/* Header */
+header {
+    background: #6a0572;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Hero */
+.hero {
+    background: #f8bbd0;
+    text-align: center;
+    padding: 40px;
+}
+
+/* Sections */
+.section {
+    padding: 30px;
+    text-align: center;
+}
+
+/* Cards */
+.card {
+    background: white;
+    margin: 15px auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Button */
+button {
+    padding: 10px 20px;
+    background: #6a0572;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Inputs */
+input {
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
